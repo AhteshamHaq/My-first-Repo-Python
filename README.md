@@ -1,1 +1,1 @@
-# My-first-Repo-Python
+# My-first-Repo-Python. I am going to learn Python in WRS and created thid repo to manage the versions.
